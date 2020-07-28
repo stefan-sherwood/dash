@@ -1,6 +1,6 @@
-# IntelligentAuto
+# OpenDsh
 
-IntelligentAuto is a Qt-based infotainment center for your current Linux OpenAuto installation!
+OpenDsh is a Qt-based infotainment center for your current Linux OpenAuto installation!
 
 Main features include:
 
